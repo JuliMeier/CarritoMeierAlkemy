@@ -2,8 +2,8 @@
 
 ## ENLACES.
 
-[VERCEL] ()
-[GITHUB] ()
+[VERCEL] (https://carrito-meier-alkemy.vercel.app/)
+[GITHUB] (https://github.com/JuliMeier/CarritoMeierAlkemy)
 
 ## INSTALACION
 
